@@ -10,7 +10,7 @@ While working through this course, it was important to me that I understood the 
 
 Currently, I am implementing a section to add a new article.  This section will be added to the ArticlesList Page.  This feature is similar to adding a comment in that it requires user authentication and the database to be configured to update and add the information upon request.  
 
-# Installing
+## Installing
 1. To use these exercise files, you must have the following installed:
 	- [list of requirements for course]
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
