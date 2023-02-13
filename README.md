@@ -1,4 +1,4 @@
-## React: Creating and Hosting a Full-Stack Site
+# React: Creating and Hosting a Full-Stack Site
 
 This repository contains the code used to create a blog application.  This project was guided by an instructor.  The link for the full course: [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/create-a-full-stack-website?autoplay=true)
 
@@ -6,7 +6,7 @@ Throughout this course, I was able to learn the fundamentals and implementaion o
 
 While working through this course, it was important to me that I understood the logic behind each solution before making implementations of my own.  With this course complete, I plan to utilize the skills I gained to add additional features to this existing project and develop other personal projects to add to my portfolio.
 
-# Additional Features
+## Additional Features
 
 Currently, I am implementing a section to add a new article.  This section will be added to the ArticlesList Page.  This feature is similar to adding a comment in that it requires user authentication and the database to be configured to update and add the information upon request.  
 
